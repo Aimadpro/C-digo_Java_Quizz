@@ -1,0 +1,3 @@
+
+EL JUGADOR messi Ha obtenido una puntuacion de: 2
+EL JUGADOR ronaldo Ha obtenido una puntuacion de: 2

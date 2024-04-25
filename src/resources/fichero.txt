@@ -1,0 +1,56 @@
+¿Cuales el equipo más exitoso en términos de campeonatos de constructores?
+¿En que año se celebró el primer GP de mónaco?
+¿Cual es el circuito más largo del Calendario?
+Que año debutó Aston Martin?
+¿Donde se celebró El primer Gran Premio de Fórmula 1?
+¿Cual de estos años fernando Alonso ganó un mundial de pilotos?
+¿Cual fué la velocidad máxima alcanzada por un F1?
+¿Cual es la escuderia más antigua que sigue en activo?
+¿Cuantas escuderias hay en una temporada típica de F1?
+¿Quien es el piloto con más campeonatos mundiales?
+
+¿Qué es la IA?
+¿Cuál es un subcampo clave de la IA?
+¿Qué implica el aprendizaje automático?
+¿Por qué es importante el procesamiento del lenguaje natural en la IA?
+¿Qué es la visión por computadora?
+¿En cuántos dominios se ha encontrado aplicaciones de la IA?
+¿En qué ámbito se utiliza la IA para el diagnóstico médico?
+¿Cuál es uno de los temas éticos relacionados con la IA?
+¿Cómo se utilizan los chatbots y los sistemas de recomendación impulsados por la IA?
+¿Qué busca la investigación y el desarrollo continuos en la IA?
+
+A-Ferrari,B-Mclaren,C-Mercedes,D-Williams
+A-1950,B-1845,C-1980,D-2023
+A-Montmeló,B-Silverstone,C-Spa Francochamps,D-Nazionale di Monza
+A-1723,B-1959,C-1980,D-2015
+A-Suzuka,B-Monza,C-Melbourne,D-Silverstone
+A-2008,B-2001,C-2009,D-2005
+A-278km/h,B-342km/h,C-378km/h,D-480km/h
+A-Ferrari,B-Williams,C-Alfa Romeo,D-Alpine
+A-20,B-10,C-5,D-30
+A-Fernando Alonso,B-Ayrton Senna,C-Lewis Hamilton,D-Michael Schumacher y Lewis Hamilton
+
+
+A-Un tema de investigacion que no se enfoca en la tecnologia,B-El estudio de la creatividad humana en el ambito de la inteligencia,C-Un subcampo de la ingeniería mecánica.,D-El desarrollo de sistemas y algoritmos capaces de realizar tareas que requieren inteligencia humana
+A-Las artes visuales.,B-El aprendizaje automático.,C-El análisis de datos.,D-La biotecnología
+A-La capacidad de las máquinas para aprender sobre un tema solo a través de la programación explícita.,B-El desarrollo de sistemas de inteligencia artificial que no mejoran con el tiempo.,C-La capacidac de las máquinas para tomar decisiones sin la necesidad de datos,D-Permitir a las computadoras aprender de los datos y mejorar su rendimiento con el tiempo sin programación explícita
+A-Para crear máquinas inteligentes capaces de realizar tareas físicas e interactuar con los humanos,B-Porque permite que las máquinas comprendan e interpreten el lenguaje humano,C-Porque no es importante y no se utiliza en la IA.,D-Para mejorar la capacidad de las máquinas para analizar información visual.
+A-Un subcampo de la IA que permite que las máquinas comprendan e interpreten el lenguaje humano.,B-Nada de lo anterior.,C-Un subcampo de la robótica que combina la IA con la ingeniería mecánica.,D-La capacidad de las computadoras para percibir y analizar información visual facilitando el reconocimiento de imágenes y la detección de objetos
+A-Ninguno de los anteriores.,B-Solo en el ámbito del entretenimiento.,C-Solo en el ámbito financiero.,D-En varios dominios incluyendo la salud finanzas transporte fabricación y entretenimiento.
+A-En transporte,B-En fabricación,C-En entretenimiento,D-En salud.
+A-El uso de la IA para mejorar la calidad de vida humana.,B-El sesgo en los algoritmos.,C-El impacto de la IA en el avance de la tecnología,D-El uso de la IA en el reconocimiento de voz.
+A-Para mejorar las experiencias de los clientes.,B-Nada de lo anterior,C-Para mejorar la capacidad de las máquinas para analizar información visual.,D-Para la navegación y la detección de obstáculos de los coches autónomos.
+A-Mejorar la comprensión de tareas complejas.,B-Crear robots físicos cada vez más avanzados.,C-Mejorar la capacidad de las máquinas para analizar información visual.,D-Nada de lo anterior.
+
+A,A,C,B,D,D,C,B,B,D
+
+
+D,B,D,B,D,D,D,B,A,A
+
+
+
+
+
+
+
